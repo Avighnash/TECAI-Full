@@ -1,0 +1,5 @@
+name: TECAI
+main: sebagius7110.TECAI.TECAI
+version: 1.0.0
+commands:
+  lagcheck:
